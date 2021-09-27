@@ -1,3 +1,3 @@
 # H-CNC
 
-![Screenshot](HCNCv2.png)
+![Screenshot](HCNCv2.PNG)
